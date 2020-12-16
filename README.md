@@ -1,5 +1,7 @@
 # What's new in TensorFlow 2.x
 
+# Quang is here
+
 The following are all the changes coming in TensorFlow 2.x. Let's have a closer look at them:
 
 * Eager Execution / tf.function
@@ -53,5 +55,5 @@ For now, just follow along the video and code exercise below to get an idea how 
 
 
 
-If you want to learn more, please have a look at our [book](https://learning.oreilly.com/library/view/whats-new-in/9781492073727/)
+if you want to learn more, please have a look at our [book](https://learning.oreilly.com/library/view/whats-new-in/9781492073727/)
 
